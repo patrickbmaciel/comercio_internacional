@@ -1,0 +1,83 @@
+"Nomenclature","ReporterISO3","ProductCode","ReporterName","PartnerISO3","PartnerName","Year","TradeFlowName","TradeFlowCode","TradeValue in 1000 USD"
+"H3","BRA","0901","Brazil","BRA","Brazil",2013,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2014,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2015,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2016,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2017,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2018,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2019,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2020,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2021,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2022,"Import",5,0
+"H3","BRA","0901","Brazil","BRA","Brazil",2023,"Import",5,0
+"H3","BRA","0901","Brazil","USA","United States",2013,"Import",5,1231.123
+"H3","BRA","0901","Brazil","USA","United States",2014,"Import",5,1270.179
+"H3","BRA","0901","Brazil","USA","United States",2015,"Import",5,1536.2
+"H3","BRA","0901","Brazil","USA","United States",2016,"Import",5,1966.283
+"H3","BRA","0901","Brazil","USA","United States",2017,"Import",5,1859.102
+"H3","BRA","0901","Brazil","USA","United States",2018,"Import",5,2603.102
+"H3","BRA","0901","Brazil","USA","United States",2019,"Import",5,3252.165
+"H3","BRA","0901","Brazil","USA","United States",2020,"Import",5,3085.995
+"H3","BRA","0901","Brazil","USA","United States",2021,"Import",5,1758.195
+"H3","BRA","0901","Brazil","USA","United States",2022,"Import",5,3736.747
+"H3","BRA","0901","Brazil","USA","United States",2023,"Import",5,2796.949
+"H3","BRA","1701","Brazil","USA","United States",2013,"Import",5,360.44
+"H3","BRA","1701","Brazil","USA","United States",2014,"Import",5,321.489
+"H3","BRA","1701","Brazil","USA","United States",2015,"Import",5,544.292
+"H3","BRA","1701","Brazil","USA","United States",2016,"Import",5,450.739
+"H3","BRA","1701","Brazil","USA","United States",2017,"Import",5,893.588
+"H3","BRA","1701","Brazil","USA","United States",2018,"Import",5,1311.992
+"H3","BRA","1701","Brazil","USA","United States",2019,"Import",5,1487.509
+"H3","BRA","1701","Brazil","USA","United States",2020,"Import",5,1324.45
+"H3","BRA","1701","Brazil","USA","United States",2021,"Import",5,2768.356
+"H3","BRA","1701","Brazil","USA","United States",2022,"Import",5,2574.943
+"H3","BRA","1701","Brazil","USA","United States",2023,"Import",5,2608.915
+"H3","BRA","3105","Brazil","BRA","Brazil",2016,"Import",5,0
+"H3","BRA","3105","Brazil","BRA","Brazil",2017,"Import",5,0
+"H3","BRA","3105","Brazil","BRA","Brazil",2019,"Import",5,0
+"H3","BRA","3105","Brazil","BRA","Brazil",2021,"Import",5,0
+"H3","BRA","3105","Brazil","BRA","Brazil",2023,"Import",5,0
+"H3","BRA","3105","Brazil","USA","United States",2013,"Import",5,719829.528
+"H3","BRA","3105","Brazil","USA","United States",2014,"Import",5,745275.281
+"H3","BRA","3105","Brazil","USA","United States",2015,"Import",5,595839.894
+"H3","BRA","3105","Brazil","USA","United States",2016,"Import",5,678019.821
+"H3","BRA","3105","Brazil","USA","United States",2017,"Import",5,718970.734
+"H3","BRA","3105","Brazil","USA","United States",2018,"Import",5,727094.552
+"H3","BRA","3105","Brazil","USA","United States",2019,"Import",5,664671.216
+"H3","BRA","3105","Brazil","USA","United States",2020,"Import",5,515779.816
+"H3","BRA","3105","Brazil","USA","United States",2021,"Import",5,816529.935
+"H3","BRA","3105","Brazil","USA","United States",2022,"Import",5,1548350.332
+"H3","BRA","3105","Brazil","USA","United States",2023,"Import",5,677149.901
+"H3","USA","0901","United States","BRA","Brazil",2013,"Import",5,1109126.11
+"H3","USA","0901","United States","BRA","Brazil",2014,"Import",5,1371287.373
+"H3","USA","0901","United States","BRA","Brazil",2015,"Import",5,1371695.973
+"H3","USA","0901","United States","BRA","Brazil",2016,"Import",5,1101477.041
+"H3","USA","0901","United States","BRA","Brazil",2017,"Import",5,1084605.263
+"H3","USA","0901","United States","BRA","Brazil",2018,"Import",5,962887.846
+"H3","USA","0901","United States","BRA","Brazil",2019,"Import",5,1071813.45
+"H3","USA","0901","United States","BRA","Brazil",2020,"Import",5,1087059.437
+"H3","USA","0901","United States","BRA","Brazil",2021,"Import",5,1274214.95
+"H3","USA","0901","United States","BRA","Brazil",2022,"Import",5,2154471.633
+"H3","USA","0901","United States","BRA","Brazil",2023,"Import",5,1410986.278
+"H3","USA","1701","United States","BRA","Brazil",2013,"Import",5,71251.542
+"H3","USA","1701","United States","BRA","Brazil",2014,"Import",5,149625.782
+"H3","USA","1701","United States","BRA","Brazil",2015,"Import",5,176104.585
+"H3","USA","1701","United States","BRA","Brazil",2016,"Import",5,195774.214
+"H3","USA","1701","United States","BRA","Brazil",2017,"Import",5,156632.465
+"H3","USA","1701","United States","BRA","Brazil",2018,"Import",5,207547.072
+"H3","USA","1701","United States","BRA","Brazil",2019,"Import",5,179089.817
+"H3","USA","1701","United States","BRA","Brazil",2020,"Import",5,337321.081
+"H3","USA","1701","United States","BRA","Brazil",2021,"Import",5,240243.825
+"H3","USA","1701","United States","BRA","Brazil",2022,"Import",5,194913.64
+"H3","USA","1701","United States","BRA","Brazil",2023,"Import",5,543371.542
+"H3","USA","3105","United States","BRA","Brazil",2013,"Import",5,141.316
+"H3","USA","3105","United States","BRA","Brazil",2014,"Import",5,171.786
+"H3","USA","3105","United States","BRA","Brazil",2015,"Import",5,170.892
+"H3","USA","3105","United States","BRA","Brazil",2016,"Import",5,227.477
+"H3","USA","3105","United States","BRA","Brazil",2017,"Import",5,808.499
+"H3","USA","3105","United States","BRA","Brazil",2018,"Import",5,3398.595
+"H3","USA","3105","United States","BRA","Brazil",2019,"Import",5,2657.68
+"H3","USA","3105","United States","BRA","Brazil",2020,"Import",5,313.902
+"H3","USA","3105","United States","BRA","Brazil",2021,"Import",5,1408.982
+"H3","USA","3105","United States","BRA","Brazil",2022,"Import",5,3515.122
+"H3","USA","3105","United States","BRA","Brazil",2023,"Import",5,8445.849
